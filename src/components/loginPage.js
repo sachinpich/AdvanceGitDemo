@@ -37,7 +37,7 @@ class LoginPage extends Component {
 
     return (
       <div>
-        <h3>Login Page</h3>
+        <h3>Login Page : New</h3>
         {!isSuccess ? <div>{message}</div> : <Redirect to='dashboard' />}
         <form onSubmit={this.onHandleLogin}>
           <div>
