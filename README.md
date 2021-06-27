@@ -14,3 +14,5 @@ Before using this project please make sure you get the server side running which
 
 ### Real World Project
 I implemented real world project using this architecture which could be found [here](https://github.com/zafar-saleem/timeoff-app)
+
+##Updated direct on origin
